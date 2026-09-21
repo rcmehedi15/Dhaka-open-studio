@@ -42,9 +42,9 @@ export const projects: Project[] = [
     tall: true,
   },
   {
-    slug: "meridian-corporate-tower",
-    name: "Meridian Corporate Tower",
-    location: "Motijheel, Dhaka",
+    slug: "Rangdhanu-Commercial-Building",
+    name: "Rangdhanu Commercial Building",
+    location: "Bashundhara, Dhaka",
     category: "Commercial",
     filters: ["Architecture", "Commercial", "Development"],
     year: "2023",
