@@ -77,7 +77,7 @@ INSERT INTO public.site_content (key, data) VALUES
   "social": [
     {"label": "LinkedIn", "href": "https://www.linkedin.com"},
     {"label": "Instagram", "href": "https://www.instagram.com"},
-    {"label": "Facebook", "href": "https://www.facebook.com"}
+    {"label": "Facebook", "href": "https://www.facebook.com/DOSAssetsDevelopment"}
   ]
 }$json$::jsonb),
 ('companies', $json${"items": [

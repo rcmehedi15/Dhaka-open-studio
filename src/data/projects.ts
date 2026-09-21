@@ -25,7 +25,7 @@ export type Project = {
 
 export const projects: Project[] = [
   {
-    slug: "shaded-court-residence",
+    slug: "comilla-mixed-use-apartment",
     name: "Comilla Mixed Use Apartment",
     location: "Comilla, Bangladesh",
     category: "Residential",
@@ -55,7 +55,7 @@ export const projects: Project[] = [
       "Meridian responds to a dense commercial block with a slender vertical profile and a deep-fin envelope. Floorplates are column-free at the perimeter, allowing flexible tenant layouts and generous daylight across an efficient core-to-glass depth.",
     services: ["Architecture", "Master Planning", "Construction Solutions"],
     image: commercial,
-    gallery: [commercial, rongdhonuSquare],
+    gallery: [commercial],
   },
   {
     slug: "50-bed-genesis-hospital",
@@ -71,7 +71,7 @@ export const projects: Project[] = [
       "Guest pavilions sit lightly on the site, arranged so that each opens onto water or planting. The masterplan retains mature trees, restores the existing water body, and threads circulation through shaded garden rooms rather than corridors.",
     services: ["Architecture", "Master Planning", "Hospitality Development"],
     image: hospitality,
-    gallery: [hospitality, masterplan],
+    gallery: [hospitality],
     tall: true,
   },
   {
