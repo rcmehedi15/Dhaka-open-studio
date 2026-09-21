@@ -74,11 +74,13 @@ export const defaultContent: SiteContent = {
   },
   companies: staticCompanies.map((c) => ({
     index: c.index,
+    img: "img" in c && typeof c.img === "string" ? c.img : "",
     slug: c.slug,
     name: c.name,
     url: "url" in c && typeof c.url === "string" ? c.url : "",
     short: c.short,
     detail: c.detail,
+
   })),
   projects: staticProjects.map((p) => ({
     slug: p.slug,
