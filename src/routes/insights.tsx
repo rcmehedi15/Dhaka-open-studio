@@ -78,7 +78,7 @@ function InsightsPage() {
         ) : null}
       </section>
 
-      <CtaSection />
+      {/* <CtaSection /> */}
     </>
   );
 }

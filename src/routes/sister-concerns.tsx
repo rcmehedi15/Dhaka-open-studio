@@ -44,10 +44,10 @@ function SisterConcernsPage() {
         </div>
       </section>
 
-      <CtaSection
+      {/* <CtaSection
         title="Different businesses. One vision."
         body="Partnership, supply, investment or development — tell us which part of the ecosystem you need."
-      />
+      /> */}
     </>
   );
 }

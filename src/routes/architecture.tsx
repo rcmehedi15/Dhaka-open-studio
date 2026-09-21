@@ -63,7 +63,7 @@ function ArchitecturePage() {
         </div>
       </section>
 
-      <CtaSection title="Have a site in mind?" body="Send us the plot, the brief, or just the ambition — we will tell you honestly what is possible." />
+      {/* <CtaSection title="Have a site in mind?" body="Send us the plot, the brief, or just the ambition — we will tell you honestly what is possible." /> */}
     </>
   );
 }

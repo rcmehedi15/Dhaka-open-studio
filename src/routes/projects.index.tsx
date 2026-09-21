@@ -81,7 +81,7 @@ function ProjectsPage() {
         ) : null}
       </section>
 
-      <CtaSection />
+      {/* <CtaSection /> */}
     </>
   );
 }

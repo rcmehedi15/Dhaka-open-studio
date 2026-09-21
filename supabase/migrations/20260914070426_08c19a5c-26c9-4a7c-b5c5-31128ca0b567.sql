@@ -69,9 +69,9 @@ INSERT INTO public.site_content (key, data) VALUES
 }$json$::jsonb),
 ('contact', $json${
   "email": "hello@dosgroup.com.bd",
-  "phone": "+880 1700 000000",
-  "address": "House 42, Road 11, Banani, Dhaka 1213, Bangladesh",
-  "mapQuery": "Banani, Dhaka, Bangladesh",
+  "phone": "+8801723-912306",
+  "address": "86/1 Ka, Progoti Sharani Cemex Shimul Trisha Trade Center, Kuril, Bissho Road, 1229",
+  "mapQuery": "Dhaka Open Studio,,  Dhaka, Bangladesh",
   "tagline": "Designing Spaces. Building Possibilities.",
   "disciplines": "Architecture | Development | Project Solutions | Agriculture | Trade",
   "social": [

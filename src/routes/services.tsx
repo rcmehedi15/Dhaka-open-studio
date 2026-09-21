@@ -43,7 +43,7 @@ function ServicesPage() {
         </div>
       </section>
 
-      <CtaSection />
+      {/* <CtaSection /> */}
     </>
   );
 }

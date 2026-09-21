@@ -92,7 +92,7 @@ function AboutPage() {
         </div>
       </section>
 
-      <CtaSection />
+      {/* <CtaSection /> */}
     </>
   );
 }

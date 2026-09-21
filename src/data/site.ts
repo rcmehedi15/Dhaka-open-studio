@@ -6,10 +6,10 @@ export const site = {
   tagline: "Designing Spaces. Building Possibilities.",
   disciplines:
     "Architecture | Development | Project Solutions | Agriculture | Trade",
-  email: "hello@dosgroup.com.bd",
-  phone: "+880 1700 000000",
-  address: "House 42, Road 11, Banani, Dhaka 1213, Bangladesh",
-  mapQuery: "Banani, Dhaka, Bangladesh",
+  email: "info@dos.com.bd",
+  phone: "+8801723-912306",
+  address: "86/1 Ka, Progoti Sharani Cemex Shimul Trisha Trade Center, Kuril, Bissho Road, 1229",
+  mapQuery: "Dhaka Open Studio,,  Dhaka, Bangladesh",
   social: [
     { label: "LinkedIn", href: "https://www.linkedin.com" },
     { label: "Instagram", href: "https://www.instagram.com" },
