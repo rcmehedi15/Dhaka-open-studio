@@ -1,6 +1,6 @@
 import residential from "@/assets/comilla-mixed-use-apartment.webp";
 import commercial from "@/assets/rangdhanu-commercial-building.webp";
-import hospitality from "@/assets/50 Bed Genesis Hospital.webp";
+import hospitality from "@/assets/genesis-hospital.webp";
 import interior from "@/assets/IQBAL_Residence.webp";
 import masterplan from "@/assets/rangpur-city-centre.webp";
 import featured from "@/assets/Kazi_Heights.webp";
