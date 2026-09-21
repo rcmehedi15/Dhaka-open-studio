@@ -45,6 +45,7 @@ export const stats = [
 export const companies = [
   {
     index: "01",
+    img : "/src/assets/sister-concerns/dadlogo.png",
     slug: "dos-assets-development",
     name: "DOS Assets Development Ltd.",
     url: "https://dosasset.com",
@@ -54,6 +55,7 @@ export const companies = [
   },
   {
     index: "02",
+    img : "/src/assets/sister-concerns/dps-logo.png",
     slug: "dos-project-solutions",
     name: "DOS Project Solutions",
     url: "https://dpsbd.com/",
@@ -63,6 +65,7 @@ export const companies = [
   },
   {
     index: "03",
+    img : "/src/assets/sister-concerns/adrok-garden.png",
     slug: "adrok-garden-resort",
     name: "Adrok Garden Resort Ltd.",
     short: "Hospitality, resort development, leisure, and destination experiences.",
@@ -71,6 +74,7 @@ export const companies = [
   },
   {
     index: "04",
+    img : "/src/assets/sister-concerns/ak-agro.png",
     slug: "ak-agro",
     name: "AK Agro",
     short: "Agriculture, agro-based business, production, and sustainable development.",
@@ -79,6 +83,7 @@ export const companies = [
   },
   {
     index: "05",
+    img : "/src/assets/sister-concerns/gz-dps-int-ltd.png",
     slug: "gz-dps-int",
     name: "GZ DPS Int. Ltd.",
     short: "International business, strategic operations, and diversified commercial activities.",
@@ -87,6 +92,7 @@ export const companies = [
   },
   {
     index: "06",
+    img : "/src/assets/sister-concerns/new-spreading.png",
     slug: "new-spreading-trade",
     name: "New Spreading Trade Ltd.",
     short: "Trading, sourcing, distribution, and commercial solutions.",
