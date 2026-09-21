@@ -1,6 +1,6 @@
 import residential from "@/assets/comilla-mixed-use-apartment.webp";
 import commercial from "@/assets/rangdhanu-commercial-building.webp";
-import hospitality from "@/assets/Coxs_Hotel.webp";
+import commercial2 from "@/assets/rangpur-city-centre.webp";
 import interior from "@/assets/IQBAL_Residence.webp";
 import masterplan from "@/assets/rangpur-city-centre.webp";
 import featured from "@/assets/Kazi_Heights.webp";
@@ -58,20 +58,20 @@ export const projects: Project[] = [
     gallery: [commercial, rongdhonuSquare],
   },
   {
-    slug: "adrok-garden-resort",
-    name: "Adrok Garden Resort",
-    location: "Gazipur",
-    category: "Hospitality",
-    filters: ["Hospitality", "Architecture", "Development"],
+    slug: "rangpur-city-centre",
+    name: "Rangpur City Centre",
+    location: "Rangpur, Bangladesh",
+    category: "Commercial",
+    filters: ["Commercial", "Architecture", "Development"],
     year: "2025",
     area: "12 acres",
     description:
       "A landscape-led resort of low timber pavilions, reflecting pools and native planting set within a restored garden estate.",
     overview:
       "Guest pavilions sit lightly on the site, arranged so that each opens onto water or planting. The masterplan retains mature trees, restores the existing water body, and threads circulation through shaded garden rooms rather than corridors.",
-    services: ["Architecture", "Master Planning", "Hospitality Development"],
-    image: hospitality,
-    gallery: [hospitality, masterplan],
+    services: ["Architecture", "Master Planning", "Commercial Development"],
+    image: commercial2,
+    gallery: [commercial2, masterplan],
     tall: true,
   },
   {
