@@ -60,7 +60,7 @@ export const projects: Project[] = [
   {
     slug: "50-bed-genesis-hospital",
     name: "50 Bed Genesis Hospital",
-    location: "Gazipur",
+    location: "Jashore, Bangladesh",
     category: "Hospitality",
     filters: ["Hospitality", "Architecture", "Development"],
     year: "2025",
