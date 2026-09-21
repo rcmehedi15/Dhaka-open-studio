@@ -1,9 +1,10 @@
-import residential from "@/assets/project-residential.jpg";
-import commercial from "@/assets/project-commercial.jpg";
-import hospitality from "@/assets/project-hospitality.jpg";
-import interior from "@/assets/project-interior.jpg";
-import masterplan from "@/assets/project-masterplan.jpg";
-import featured from "@/assets/featured.jpg";
+import residential from "@/assets/comilla-mixed-use-apartment.webp";
+import commercial from "@/assets/rangdhanu-commercial-building.webp";
+import hospitality from "@/assets/Coxs_Hotel.webp";
+import interior from "@/assets/IQBAL_Residence.webp";
+import masterplan from "@/assets/rangpur-city-centre.webp";
+import featured from "@/assets/Kazi_Heights.webp";
+import rongdhonuSquare from "@/assets/rongdhonu-square.webp";
 import aboutImg from "@/assets/about.jpg";
 
 export type Project = {
@@ -25,8 +26,8 @@ export type Project = {
 export const projects: Project[] = [
   {
     slug: "shaded-court-residence",
-    name: "Shaded Court Residence",
-    location: "Gulshan, Dhaka",
+    name: "Comilla Mixed Use Apartment",
+    location: "Comilla, Bangladesh",
     category: "Residential",
     filters: ["Architecture", "Residential"],
     year: "2024",
@@ -54,7 +55,7 @@ export const projects: Project[] = [
       "Meridian responds to a dense commercial block with a slender vertical profile and a deep-fin envelope. Floorplates are column-free at the perimeter, allowing flexible tenant layouts and generous daylight across an efficient core-to-glass depth.",
     services: ["Architecture", "Master Planning", "Construction Solutions"],
     image: commercial,
-    gallery: [commercial, interior],
+    gallery: [commercial, rongdhonuSquare],
   },
   {
     slug: "adrok-garden-resort",
@@ -103,7 +104,7 @@ export const projects: Project[] = [
       "The plan sets a walkable block structure with a continuous public edge along the water. Density is concentrated inland, freeing the riverfront for parkland, flood buffering and civic amenity.",
     services: ["Master Planning", "Real Estate Development"],
     image: masterplan,
-    gallery: [masterplan, commercial],
+    gallery: [masterplan, rongdhonuSquare],
   },
   {
     slug: "terrace-gardens-mixed-use",
@@ -124,7 +125,7 @@ export const projects: Project[] = [
       "Construction Solutions",
     ],
     image: featured,
-    gallery: [featured, masterplan, commercial],
+    gallery: [featured, rongdhonuSquare, commercial],
     tall: true,
   },
 ];

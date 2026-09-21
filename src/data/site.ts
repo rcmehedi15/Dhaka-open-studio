@@ -5,7 +5,7 @@ export const site = {
   name: "DOS",
   tagline: "Designing Spaces. Building Possibilities.",
   disciplines:
-    "Architecture | Development | Solutions | Hospitality | Agriculture | Trade",
+    "Architecture | Development | Project Solutions | Agriculture | Trade",
   email: "hello@dosgroup.com.bd",
   phone: "+880 1700 000000",
   address: "House 42, Road 11, Banani, Dhaka 1213, Bangladesh",
@@ -36,8 +36,8 @@ export const values = [
 ];
 
 export const stats = [
-  { value: "10+", label: "Years of Experience" },
-  { value: "50+", label: "Projects & Initiatives" },
+  { value: "17+", label: "Years of Experience" },
+  { value: "1000+", label: "Projects & Initiatives" },
   { value: "6", label: "Sister Concerns" },
   { value: "01", label: "Unified Vision" },
 ];

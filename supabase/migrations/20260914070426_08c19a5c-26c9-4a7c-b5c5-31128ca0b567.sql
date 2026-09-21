@@ -61,8 +61,8 @@ INSERT INTO public.site_content (key, data) VALUES
     {"title": "Impact", "body": "Creating value for people, communities, and businesses."}
   ],
   "stats": [
-    {"value": "10+", "label": "Years of Experience"},
-    {"value": "50+", "label": "Projects & Initiatives"},
+    {"value": "17+", "label": "Years of Experience"},
+    {"value": "1000+", "label": "Projects & Initiatives"},
     {"value": "6", "label": "Sister Concerns"},
     {"value": "01", "label": "Unified Vision"}
   ]
@@ -73,7 +73,7 @@ INSERT INTO public.site_content (key, data) VALUES
   "address": "House 42, Road 11, Banani, Dhaka 1213, Bangladesh",
   "mapQuery": "Banani, Dhaka, Bangladesh",
   "tagline": "Designing Spaces. Building Possibilities.",
-  "disciplines": "Architecture | Development | Solutions | Hospitality | Agriculture | Trade",
+  "disciplines": "Architecture | Development | Project Solutions | Agriculture | Trade",
   "social": [
     {"label": "LinkedIn", "href": "https://www.linkedin.com"},
     {"label": "Instagram", "href": "https://www.instagram.com"},
@@ -89,7 +89,7 @@ INSERT INTO public.site_content (key, data) VALUES
   {"index":"06","slug":"new-spreading-trade","name":"New Spreading Trade Ltd.","url":"","short":"Trading, sourcing, distribution, and commercial solutions.","detail":"Sourcing networks, import and distribution capability, and commercial solutions for industrial and consumer markets."}
 ]}$json$::jsonb),
 ('projects', $json${"items": [
-  {"slug":"shaded-court-residence","name":"Shaded Court Residence","location":"Gulshan, Dhaka","category":"Residential","year":"2024","area":"8,400 sq ft","description":"A private family house organised around a shaded courtyard, timber screens and deep concrete overhangs tuned to the Dhaka climate.","overview":"The house folds around a central court that draws light and air into every room while keeping the interior shielded from street noise and low western sun. Board-formed concrete is paired with locally milled timber louvres that filter glare and give the facade its shifting daily rhythm.","services":"Architecture, Interior Design, Project Management"},
+  {"slug":"shaded-court-residence","name":"Comilla Mixed Use Apartment","location":"Gulshan, Dhaka","category":"Residential","year":"2024","area":"8,400 sq ft","description":"A private family house organised around a shaded courtyard, timber screens and deep concrete overhangs tuned to the Dhaka climate.","overview":"The house folds around a central court that draws light and air into every room while keeping the interior shielded from street noise and low western sun. Board-formed concrete is paired with locally milled timber louvres that filter glare and give the facade its shifting daily rhythm.","services":"Architecture, Interior Design, Project Management"},
   {"slug":"meridian-corporate-tower","name":"Meridian Corporate Tower","location":"Motijheel, Dhaka","category":"Commercial","year":"2023","area":"310,000 sq ft","description":"A 24-storey office tower with a precast fin facade that reduces solar gain while giving the building a strong vertical presence.","overview":"Meridian responds to a dense commercial block with a slender vertical profile and a deep-fin envelope. Floorplates are column-free at the perimeter, allowing flexible tenant layouts and generous daylight across an efficient core-to-glass depth.","services":"Architecture, Master Planning, Construction Solutions"},
   {"slug":"adrok-garden-resort","name":"Adrok Garden Resort","location":"Gazipur","category":"Hospitality","year":"2025","area":"12 acres","description":"A landscape-led resort of low timber pavilions, reflecting pools and native planting set within a restored garden estate.","overview":"Guest pavilions sit lightly on the site, arranged so that each opens onto water or planting. The masterplan retains mature trees, restores the existing water body, and threads circulation through shaded garden rooms rather than corridors.","services":"Architecture, Master Planning, Hospitality Development"},
   {"slug":"travertine-lobby","name":"Travertine Lobby","location":"Banani, Dhaka","category":"Interior","year":"2024","area":"6,200 sq ft","description":"A sculptural arrival interior in travertine, oak and concealed linear light for a premium residential address.","overview":"The lobby is conceived as a single continuous surface: a cast stair curves through travertine walls, with lighting held in recessed reveals so the material — not the fittings — carries the room.","services":"Interior Design, Project Management"},

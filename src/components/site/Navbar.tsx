@@ -53,7 +53,7 @@ export function Navbar() {
               solid ? "text-muted-foreground" : "text-background/70",
             )}
           >
-            Architecture
+            - Dhaka Open Studio
           </span>
         </Link>
 

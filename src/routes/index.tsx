@@ -58,10 +58,8 @@ function Home() {
       <SisterConcerns />
       <ServicesSection />
       <WhyDos />
-      <FeaturedProject />
       <VisionMission />
-      <InsightsSection />
-      <CtaSection />
+      
     </>
   );
 }
@@ -80,7 +78,7 @@ function Hero() {
       <div className="absolute inset-0 bg-gradient-to-t from-ink/85 via-ink/40 to-ink/30" />
       <div className="container-x relative w-full pb-20 lg:pb-28">
         <Reveal>
-          <p className="eyebrow text-background/70">DOS — Architecture</p>
+          <p className="eyebrow text-background/70">DOS — Dhaka Open Studio</p>
           <h1 className="display-xl mt-6 max-w-5xl text-background">
             Designing Spaces. Building Possibilities.
           </h1>
@@ -307,7 +305,7 @@ function VisionMission() {
           </p>
         </div>
       </Reveal>
-      <Reveal delay={120} className="bg-sand px-6 py-20 lg:px-16 lg:py-32">
+      <Reveal delay={120} className="bg-accent-foreground px-6 py-20 lg:px-16 lg:py-32">
         <div className="mx-auto max-w-lg">
           <p className="eyebrow">Mission</p>
           <div aria-hidden className="mt-8 space-y-2">

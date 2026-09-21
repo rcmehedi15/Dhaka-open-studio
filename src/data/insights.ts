@@ -1,9 +1,11 @@
-import residential from "@/assets/project-residential.jpg";
-import commercial from "@/assets/project-commercial.jpg";
-import hospitality from "@/assets/project-hospitality.jpg";
-import interior from "@/assets/project-interior.jpg";
-import masterplan from "@/assets/project-masterplan.jpg";
+import residential from "@/assets/comilla-mixed-use-apartment.webp";
+import commercial from "@/assets/rangdhanu-commercial-building.webp";
+import hospitality from "@/assets/Coxs_Hotel.webp";
+import interior from "@/assets/IQBAL_Residence.webp";
+import masterplan from "@/assets/rangpur-city-centre.webp";
 import about from "@/assets/about.jpg";
+import kaziHeights from "@/assets/Kazi_Heights.webp";
+import rongdhonuSquare from "@/assets/rongdhonu-square.webp";
 
 export type Article = {
   slug: string;
@@ -31,7 +33,7 @@ export const articles: Article[] = [
     date: "28 July 2026",
     excerpt:
       "Board-formed concrete, local brick and milled timber — how a restrained palette ages better than applied finishes.",
-    image: residential,
+    image: kaziHeights,
   },
   {
     slug: "value-in-mixed-use",
@@ -40,7 +42,7 @@ export const articles: Article[] = [
     date: "05 July 2026",
     excerpt:
       "Ground-plane design, tenancy mix and phasing decide long-term returns far more than headline floor area.",
-    image: commercial,
+    image: rongdhonuSquare,
   },
   {
     slug: "sequencing-complex-sites",
