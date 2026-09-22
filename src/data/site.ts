@@ -24,7 +24,7 @@ export const navLinks = [
   { label: "Projects", to: "/projects" },
   { label: "Sister Concerns", to: "/sister-concerns" },
   { label: "Services", to: "/services" },
-  { label: "Insights", to: "/insights" },
+  // { label: "Insights", to: "/insights" },
   { label: "Contact", to: "/contact" },
 ] as const;
 
