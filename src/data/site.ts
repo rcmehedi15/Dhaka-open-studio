@@ -11,9 +11,9 @@ export const site = {
   address: "86/1 Ka, Progoti Sharani Cemex Shimul Trisha Trade Center, Kuril, Bissho Road, 1229",
   mapQuery: "Dhaka Open Studio,,  Dhaka, Bangladesh",
   social: [
-    { label: "LinkedIn", href: "https://www.linkedin.com" },
-    { label: "Instagram", href: "https://www.instagram.com" },
-    { label: "Facebook", href: "https://www.facebook.com" },
+    { label: "LinkedIn", href: "https://www.linkedin.com/company/dos-assets-development" },
+    { label: "Instagram", href: "https://www.instagram.com/dos_asset_development" },
+    { label: "Facebook", href: "https://www.facebook.com/DOSAssetsDevelopment" },
   ],
 } as const;
 
