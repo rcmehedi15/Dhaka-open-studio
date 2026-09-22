@@ -20,7 +20,7 @@ export const site = {
 export const navLinks = [
   { label: "Home", to: "/" },
   { label: "About DOS", to: "/about" },
-  { label: "Architecture", to: "/architecture" },
+  // { label: "Architecture", to: "/architecture" },
   { label: "Projects", to: "/projects" },
   { label: "Sister Concerns", to: "/sister-concerns" },
   { label: "Services", to: "/services" },
