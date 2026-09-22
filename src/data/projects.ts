@@ -75,8 +75,8 @@ export const projects: Project[] = [
     tall: true,
   },
   {
-    slug: "travertine-lobby",
-    name: "Travertine Lobby",
+    slug: "IQBAL_Residence",
+    name: "IQBAL Residence",
     location: "Banani, Dhaka",
     category: "Interior",
     filters: ["Interior", "Architecture"],
@@ -91,9 +91,9 @@ export const projects: Project[] = [
     gallery: [interior, residential],
   },
   {
-    slug: "riverside-district-plan",
-    name: "Riverside District Plan",
-    location: "Narayanganj",
+    slug: "rangpur-city-centre",
+    name: "Rangpur City Centre",
+    location: "Raghpur, Bangladesh",
     category: "Master Planning",
     filters: ["Master Planning", "Development"],
     year: "2025",
@@ -107,8 +107,8 @@ export const projects: Project[] = [
     gallery: [masterplan, rongdhonuSquare],
   },
   {
-    slug: "terrace-gardens-mixed-use",
-    name: "Terrace Gardens",
+    slug: "Kazi_Heights",
+    name: "Kazi Heights",
     location: "Purbachal, Dhaka",
     category: "Commercial",
     filters: ["Development", "Architecture", "Residential", "Commercial"],
@@ -117,7 +117,7 @@ export const projects: Project[] = [
     description:
       "A stepped mixed-use development where every level carries planted terraces, softening the mass against the city skyline.",
     overview:
-      "Terrace Gardens layers retail, workspace and homes into a cascading section. Planted terraces shade the floor below, collect rainwater, and give every unit outdoor space — a dense building that still reads as landscape.",
+      "Kazi Heights layers retail, workspace and homes into a cascading section. Planted terraces shade the floor below, collect rainwater, and give every unit outdoor space — a dense building that still reads as landscape.",
     services: [
       "Architecture",
       "Real Estate Development",
