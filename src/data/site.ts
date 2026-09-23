@@ -68,6 +68,7 @@ export const companies = [
     img : "/src/assets/sister-concerns/adrok-garden.png",
     slug: "adrok-garden-resort",
     name: "Adrok Garden Resort Ltd.",
+     url: "https://www.facebook.com/adrokgardenresort",
     short: "Hospitality, resort development, leisure, and destination experiences.",
     detail:
       "Destination hospitality assets designed around landscape, wellness, and slow leisure for domestic and regional travellers.",
