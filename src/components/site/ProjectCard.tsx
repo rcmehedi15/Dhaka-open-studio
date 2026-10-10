@@ -32,12 +32,12 @@ export function ProjectCard({
       <div className="flex items-start justify-between gap-6 pt-5">
         <div>
           <h3 className="font-display text-xl leading-snug font-medium">{project.name}</h3>
-          <p className="mt-1.5 text-sm text-muted-foreground">
+          {/* <p className="mt-1.5 text-sm text-muted-foreground">
             {project.location} &middot; {project.category} &middot; {project.year}
-          </p>
-          <p className="mt-3 max-w-md text-sm leading-relaxed text-muted-foreground">
+          </p> */}
+          {/* <p className="mt-3 max-w-md text-sm leading-relaxed text-muted-foreground">
             {project.description}
-          </p>
+          </p> */}
         </div>
         <ArrowUpRight className="mt-1 size-5 shrink-0 text-muted-foreground transition-transform duration-500 group-hover:-translate-y-1 group-hover:translate-x-1 group-hover:text-foreground" />
       </div>
